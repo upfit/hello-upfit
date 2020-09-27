@@ -9,7 +9,7 @@
 
 </div>
 
-Very tiny CLI to test the infrastrcture and make demos at [upfit.de](https://upfit.de)
+Very tiny web app to test the infrastructure and make demos at [upfit.de](https://upfit.de)
 
-`docker run -it upfit/hello-upfit`
+`docker run -p 8080:8080 -it upfit/hello-upfit`
 
